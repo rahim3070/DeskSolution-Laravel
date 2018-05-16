@@ -1,3 +1,0 @@
-DB Name : desksolu_db_desk_solution
-User Name : desksolu_rahim
-Pass : rahim.3070
